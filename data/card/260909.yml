@@ -7,7 +7,7 @@ about:
   latestVersion: "1.0.0"
   latestRelease: "1.0.0"
   latestPrerelease: "0.3.0"
-  collectedAt: 2026-09-09T03:58:30Z
+  collectedAt: 2026-09-09T18:37:56Z
 timeline:
   created: 2014-03-16
   lastCommit: 2026-08-18
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-13
   lastPrerelease: 2015-07-12
 popularity:
-  star: 6403
+  star: 6405
   watcher: 41
   fork: 297
   release: 34
@@ -91,7 +91,7 @@ total:
   commit: 1169
 ---
 path: /home/runner/.x-repo/github.com/karlstav/cava
-collectedAt: 2026-09-09T03:58:31Z
+collectedAt: 2026-09-09T18:38:04Z
 loc:
   C:
     code: 7006
