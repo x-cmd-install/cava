@@ -7,7 +7,7 @@ Cross-platform Audio Visualizer
 - **Latest release**: `1.0.0` (2026-06-13)
 - **Last commit**: 2026-08-18
 - **License**: MIT
-- **Stars**: 6400 · **Forks**: 297 · **Open issues**: 530 · **Contributors**: 86
+- **Stars**: 6403 · **Forks**: 297 · **Open issues**: 530 · **Contributors**: 86
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/cava> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:34:12Z._
+_Last regenerated: 2026-09-09T03:58:34Z._
