@@ -4,7 +4,7 @@
 
 Cross-platform Audio Visualizer
 
-![cava](https://repo.x-cmd.io/cava.svg)
+![cava](https://repo.x-cmd.io/cava.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,14 @@ x install cava
 - **最新版本**: `1.0.0` (2026-06-13)
 - **最近提交**: 2026-08-18
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-06-13T17:53:33Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [cava-1.0.0.tar.gz](https://github.com/karlstav/cava/releases/download/1.0.0/cava-1.0.0.tar.gz) | 446.7 KiB | `native/unknown` |
+| [cava.apk](https://github.com/karlstav/cava/releases/download/1.0.0/cava.apk) | 18.1 MiB | `other` |
+| [cava_win_x64_install.msi](https://github.com/karlstav/cava/releases/download/1.0.0/cava_win_x64_install.msi) | 1.2 MiB | `other` |
 
 ## 流行度
 
@@ -71,4 +78,4 @@ cava 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:57:33Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:56:52Z._

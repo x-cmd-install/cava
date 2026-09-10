@@ -22,7 +22,14 @@ x install cava
 - **Latest**: `1.0.0` (2026-06-13)
 - **Last commit**: 2026-08-18
 - **Assets in release**: 3
-- **Published**: 2026-06-13T17:53:33Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [cava-1.0.0.tar.gz](https://github.com/karlstav/cava/releases/download/1.0.0/cava-1.0.0.tar.gz) | 446.7 KiB | `native/unknown` |
+| [cava.apk](https://github.com/karlstav/cava/releases/download/1.0.0/cava.apk) | 18.1 MiB | `other` |
+| [cava_win_x64_install.msi](https://github.com/karlstav/cava/releases/download/1.0.0/cava_win_x64_install.msi) | 1.2 MiB | `other` |
 
 ## Popularity
 
@@ -67,8 +74,8 @@ Lowest-scoring checks:
 Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cava` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/cava.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/cava.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:57:33Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:56:51Z._
