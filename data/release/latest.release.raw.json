@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1220608,
       "digest": "sha256:fe0f95cf88573a4369baa3b85c4efe28aff6a5b6c75bb0f140ccf5c655544dab",
-      "download_count": 8292,
+      "download_count": 8301,
       "created_at": "2026-06-13T17:53:23Z",
       "updated_at": "2026-06-13T17:53:25Z",
       "browser_download_url": "https://github.com/karlstav/cava/releases/download/1.0.0/cava_win_x64_install.msi"
