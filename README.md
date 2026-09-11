@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **93** distros on [repology.org](https://repology.org/project/cava). **26** are ✅ on the latest upstream release, **64** are ⚠️ on an older version.
+Reported by **93** distros on [repology.org](https://repology.org/project/cava). **27** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -84,7 +84,7 @@ Reported by **93** distros on [repology.org](https://repology.org/project/cava).
 | Ubuntu 26.04 LTS | `0.6.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.6.0` | ⚠️ outdated |
 | Arch | `1.0.0` | ✅ latest |
-| Homebrew | `1.0.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.10.2` | ⚠️ outdated |
 | Nix unstable | `1.0.0` | ✅ latest |
 | Void | `1.0.0` | ✅ latest |
@@ -100,4 +100,4 @@ Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:05:01Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T03:54:03Z._

@@ -74,7 +74,7 @@ x install cava
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/cava) 上共有 **93** 个发行版报告此项目。**26** 个 ✅ 已是最新上游版本，**64** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/cava) 上共有 **93** 个发行版报告此项目。**27** 个 ✅ 已是最新上游版本，**63** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -84,7 +84,7 @@ x install cava
 | Ubuntu 26.04 LTS | `0.6.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.6.0` | ⚠️ outdated |
 | Arch | `1.0.0` | ✅ latest |
-| Homebrew | `1.0.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.10.2` | ⚠️ outdated |
 | Nix unstable | `1.0.0` | ✅ latest |
 | Void | `1.0.0` | ✅ latest |
@@ -100,4 +100,4 @@ cava 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T00:05:01Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T03:54:03Z._
