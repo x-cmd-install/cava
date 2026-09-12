@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 1 | 0 | 1 | 1 | 1 |
-| last60d | 2026-07-13 | 0 | 1 | 0 | 3 | 4 | 7 |
-| 90d | 2026-06-13 | 1 | 5 | 0 | 4 | 8 | 14 |
-| last180d | 2026-03-15 | 1 | 14 | 1 | 15 | 12 | 28 |
-| 360d | 2025-09-16 | 2 | 32 | 1 | 47 | 12 | 100 |
-| last720d | 2024-09-21 | 5 | 53 | 1 | 123 | 13 | 211 |
+| 30d | 2026-08-13 | 0 | 1 | 0 | 1 | 1 | 1 |
+| last60d | 2026-07-14 | 0 | 1 | 0 | 2 | 4 | 7 |
+| 90d | 2026-06-14 | 0 | 5 | 0 | 4 | 8 | 14 |
+| last180d | 2026-03-16 | 1 | 14 | 1 | 15 | 12 | 28 |
+| 360d | 2025-09-17 | 2 | 32 | 1 | 47 | 12 | 100 |
+| last720d | 2024-09-22 | 5 | 53 | 1 | 123 | 13 | 211 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **93** distros on [repology.org](https://repology.org/project/cava). **27** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
+Reported by **92** distros on [repology.org](https://repology.org/project/cava). **26** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -84,7 +84,7 @@ Reported by **93** distros on [repology.org](https://repology.org/project/cava).
 | Ubuntu 26.04 LTS | `0.6.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.6.0` | ⚠️ outdated |
 | Arch | `1.0.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.0.0` | ✅ latest |
 | Fedora rawhide | `0.10.2` | ⚠️ outdated |
 | Nix unstable | `1.0.0` | ✅ latest |
 | Void | `1.0.0` | ✅ latest |
@@ -100,4 +100,4 @@ Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:45:52Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T03:56:44Z._
