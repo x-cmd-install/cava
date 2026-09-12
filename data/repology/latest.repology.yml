@@ -1,28 +1,28 @@
-- repo: kiss_community
-  subrepo: community
+- repo: manjaro_unstable
+  subrepo: extra
   srcname: cava
+  binname: cava
   visiblename: cava
-  version: 0.10.2
-  origversion: null
+  version: 0.10.7
+  origversion: 0.10.7-1
   status: outdated
-  maintainers:
-    - mederimmedeiros@proton.me
-- repo: aerynos
-  srcname: cava
-  visiblename: cava
-  version: 1.0.0
-  origversion: null
-  status: newest
-  summary: Cross-platform Audio Visualizer
+  summary: Console-based Audio Visualizer with support for multiple backends
   licenses:
     - MIT
-- repo: homebrew
+- repo: devuan_4_0
+  subrepo: chimaera/main
   srcname: cava
+  binnames:
+    - libcava-java
   visiblename: cava
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Console-based Audio Visualizer for ALSA
+  version: 0.6.0
+  origversion: 0.6.0-1.1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - hans@eds.org
+  categories:
+    - misc
 - repo: aosc
   srcname: app-multimedia/cava
   binname: cava
@@ -35,8 +35,19 @@
     - fallback-mnt-aosc@repology
   categories:
     - sound
-- repo: kali_rolling
-  subrepo: main
+- repo: arch
+  subrepo: extra
+  srcname: cava
+  binname: cava
+  visiblename: cava
+  version: 1.0.0
+  origversion: 1.0.0-1
+  status: newest
+  summary: Console-based Audio Visualizer with support for multiple backends
+  licenses:
+    - MIT
+- repo: debian_13
+  subrepo: trixie/main
   srcname: cava
   binnames:
     - libcava-java
@@ -49,20 +60,92 @@
     - hans@eds.org
   categories:
     - misc
-- repo: trisquel_11_0
-  subrepo: aramo/main
+- repo: debian_14
+  subrepo: forky/main
   srcname: cava
   binnames:
     - libcava-java
   visiblename: cava
   version: 0.6.0
-  origversion: 0.6.0-1.1
+  origversion: 0.6.0-2
   status: outdated
   maintainers:
     - pkg-java-maintainers@lists.alioth.debian.org
     - hans@eds.org
   categories:
-    - universe/misc
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: cava
+  binnames:
+    - libcava-java
+  visiblename: cava
+  version: 0.6.0
+  origversion: 0.6.0-2
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - hans@eds.org
+  categories:
+    - misc
+- repo: aur
+  srcname: cava-git
+  binname: cava-git
+  visiblename: cava-git
+  version: r1136.20a5997
+  origversion: r1136.20a5997-2
+  status: rolling
+  summary: Console-based Audio Visualizer for Alsa. Development version.
+  maintainers:
+    - yurakaii@aur
+  licenses:
+    - MIT
+- repo: deepin_unstable
+  subrepo: main
+  srcname: cava
+  binnames:
+    - libcava-java
+  visiblename: cava
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - hans@eds.org
+- repo: deepin_25
+  subrepo: community
+  srcname: cava
+  binnames:
+    - libcava-java
+  visiblename: cava
+  version: 0.6.0
+  origversion: 0.6.0-2
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - hans@eds.org
+  categories:
+    - java
+- repo: artix
+  subrepo: galaxy
+  srcname: cava
+  binname: cava
+  visiblename: cava
+  version: 0.10.7
+  origversion: 0.10.7-1
+  status: outdated
+  summary: Console-based Audio Visualizer with support for multiple backends
+  licenses:
+    - MIT
+- repo: aerynos
+  srcname: cava
+  visiblename: cava
+  version: 1.0.0
+  origversion: null
+  status: newest
+  summary: Cross-platform Audio Visualizer
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: cava
@@ -108,51 +191,6 @@
     - MIT
   categories:
     - Sound
-- repo: arch
-  subrepo: extra
-  srcname: cava
-  binname: cava
-  visiblename: cava
-  version: 1.0.0
-  origversion: 1.0.0-1
-  status: newest
-  summary: Console-based Audio Visualizer with support for multiple backends
-  licenses:
-    - MIT
-- repo: aur
-  srcname: cava-git
-  binname: cava-git
-  visiblename: cava-git
-  version: r1136.20a5997
-  origversion: r1136.20a5997-2
-  status: rolling
-  summary: Console-based Audio Visualizer for Alsa. Development version.
-  maintainers:
-    - yurakaii@aur
-  licenses:
-    - MIT
-- repo: artix
-  subrepo: galaxy
-  srcname: cava
-  binname: cava
-  visiblename: cava
-  version: 0.10.7
-  origversion: 0.10.7-1
-  status: outdated
-  summary: Console-based Audio Visualizer with support for multiple backends
-  licenses:
-    - MIT
-- repo: artix_testing
-  subrepo: galaxy-gremlins
-  srcname: cava
-  binname: cava
-  visiblename: cava
-  version: 1.0.0
-  origversion: 1.0.0-1
-  status: newest
-  summary: Console-based Audio Visualizer with support for multiple backends
-  licenses:
-    - MIT
 - repo: chimera
   subrepo: user
   srcname: cava
@@ -203,88 +241,17 @@
     - hans@eds.org
   categories:
     - misc
-- repo: debian_13
-  subrepo: trixie/main
+- repo: manjaro_testing
+  subrepo: extra
   srcname: cava
-  binnames:
-    - libcava-java
+  binname: cava
   visiblename: cava
-  version: 0.6.0
-  origversion: 0.6.0-2
+  version: 0.10.7
+  origversion: 0.10.7-1
   status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - hans@eds.org
-  categories:
-    - misc
-- repo: debian_14
-  subrepo: forky/main
-  srcname: cava
-  binnames:
-    - libcava-java
-  visiblename: cava
-  version: 0.6.0
-  origversion: 0.6.0-2
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - hans@eds.org
-  categories:
-    - misc
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: cava
-  binnames:
-    - libcava-java
-  visiblename: cava
-  version: 0.6.0
-  origversion: 0.6.0-2
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - hans@eds.org
-  categories:
-    - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: cava
-  binnames:
-    - libcava-java
-  visiblename: cava
-  version: 0.6.0
-  origversion: 0.6.0-1
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - hans@eds.org
-- repo: deepin_25
-  subrepo: community
-  srcname: cava
-  binnames:
-    - libcava-java
-  visiblename: cava
-  version: 0.6.0
-  origversion: 0.6.0-2
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - hans@eds.org
-  categories:
-    - java
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: cava
-  binnames:
-    - libcava-java
-  visiblename: cava
-  version: 0.6.0
-  origversion: 0.6.0-1.1
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - hans@eds.org
-  categories:
-    - misc
+  summary: Console-based Audio Visualizer with support for multiple backends
+  licenses:
+    - MIT
 - repo: devuan_unstable
   subrepo: unstable/main
   srcname: cava
@@ -299,13 +266,6 @@
     - hans@eds.org
   categories:
     - misc
-- repo: homebrew
-  srcname: cava
-  visiblename: cava
-  version: 1.0.0
-  origversion: null
-  status: newest
-  summary: Console-based Audio Visualizer for ALSA
 - repo: exherbo
   subrepo: media-unofficial
   srcname: media-sound/cava
@@ -364,6 +324,20 @@
     - MIT
   categories:
     - Unspecified
+- repo: raspbian_stable
+  subrepo: main
+  srcname: cava
+  binnames:
+    - libcava-java
+  visiblename: cava
+  version: 0.6.0
+  origversion: 0.6.0-2
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - hans@eds.org
+  categories:
+    - misc
 - repo: fedora_42
   subrepo: release
   srcname: cava
@@ -477,6 +451,43 @@
   summary: Console-based Audio Visualizer for Alsa (MPD and Pulseaudio)
   licenses:
     - MIT
+- repo: homebrew
+  srcname: cava
+  visiblename: cava
+  version: 1.0.0
+  origversion: null
+  status: newest
+  summary: Console-based Audio Visualizer for ALSA
+- repo: homebrew
+  srcname: cava
+  visiblename: cava
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Console-based Audio Visualizer for ALSA
+- repo: kali_rolling
+  subrepo: main
+  srcname: cava
+  binnames:
+    - libcava-java
+  visiblename: cava
+  version: 0.6.0
+  origversion: 0.6.0-2
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - hans@eds.org
+  categories:
+    - misc
+- repo: kiss_community
+  subrepo: community
+  srcname: cava
+  visiblename: cava
+  version: 0.10.2
+  origversion: null
+  status: outdated
+  maintainers:
+    - mederimmedeiros@proton.me
 - repo: liguros_stable
   srcname: media-sound/cava
   visiblename: media-sound/cava
@@ -491,6 +502,20 @@
     - Unlicense
   categories:
     - media-sound
+- repo: raspbian_testing
+  subrepo: main
+  srcname: cava
+  binnames:
+    - libcava-java
+  visiblename: cava
+  version: 0.6.0
+  origversion: 0.6.0-2
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - hans@eds.org
+  categories:
+    - misc
 - repo: liguros_develop
   srcname: media-sound/cava
   visiblename: media-sound/cava
@@ -549,28 +574,6 @@
   categories:
     - Sound/Utilities
 - repo: manjaro_stable
-  subrepo: extra
-  srcname: cava
-  binname: cava
-  visiblename: cava
-  version: 0.10.7
-  origversion: 0.10.7-1
-  status: outdated
-  summary: Console-based Audio Visualizer with support for multiple backends
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: cava
-  binname: cava
-  visiblename: cava
-  version: 0.10.7
-  origversion: 0.10.7-1
-  status: outdated
-  summary: Console-based Audio Visualizer with support for multiple backends
-  licenses:
-    - MIT
-- repo: manjaro_unstable
   subrepo: extra
   srcname: cava
   binname: cava
@@ -681,20 +684,6 @@
     - mirrexagon@mirrexagon.com
   licenses:
     - MIT
-- repo: ubuntu_18_04
-  subrepo: bionic-updates/universe
-  srcname: cava
-  binnames:
-    - libcava-java
-  visiblename: cava
-  version: 0.6.0
-  origversion: 0.6.0-1~18.04
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - hans@eds.org
-  categories:
-    - universe/java
 - repo: openmandriva_6_0
   subrepo: main/release
   srcname: cava
@@ -920,34 +909,6 @@
     - hans@eds.org
   categories:
     - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: cava
-  binnames:
-    - libcava-java
-  visiblename: cava
-  version: 0.6.0
-  origversion: 0.6.0-2
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - hans@eds.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: cava
-  binnames:
-    - libcava-java
-  visiblename: cava
-  version: 0.6.0
-  origversion: 0.6.0-2
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - hans@eds.org
-  categories:
-    - misc
 - repo: rosa_13
   subrepo: contrib/release
   srcname: cava
@@ -1041,6 +1002,34 @@
     - hans@eds.org
   categories:
     - universe/misc
+- repo: trisquel_11_0
+  subrepo: aramo/main
+  srcname: cava
+  binnames:
+    - libcava-java
+  visiblename: cava
+  version: 0.6.0
+  origversion: 0.6.0-1.1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - hans@eds.org
+  categories:
+    - universe/misc
+- repo: ubuntu_18_04
+  subrepo: bionic-updates/universe
+  srcname: cava
+  binnames:
+    - libcava-java
+  visiblename: cava
+  version: 0.6.0
+  origversion: 0.6.0-1~18.04
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - hans@eds.org
+  categories:
+    - universe/java
 - repo: ubuntu_20_04
   subrepo: focal/universe
   srcname: cava
