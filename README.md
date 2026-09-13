@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,410 · **Forks**: 298 · **Open issues**: 530 · **Contributors**: 86
+- **Stars**: 6,413 · **Forks**: 298 · **Open issues**: 530 · **Contributors**: 86
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 1 | 0 | 1 | 1 | 1 |
-| last60d | 2026-07-14 | 0 | 1 | 0 | 2 | 4 | 7 |
-| 90d | 2026-06-14 | 0 | 5 | 0 | 4 | 8 | 14 |
-| last180d | 2026-03-16 | 1 | 14 | 1 | 15 | 12 | 28 |
-| 360d | 2025-09-17 | 2 | 32 | 1 | 47 | 12 | 100 |
-| last720d | 2024-09-22 | 5 | 53 | 1 | 123 | 13 | 211 |
+| 30d | 2026-08-14 | 0 | 1 | 0 | 1 | 1 | 0 |
+| last60d | 2026-07-15 | 0 | 1 | 0 | 2 | 4 | 7 |
+| 90d | 2026-06-15 | 0 | 5 | 0 | 4 | 8 | 14 |
+| last180d | 2026-03-17 | 1 | 13 | 1 | 15 | 12 | 24 |
+| 360d | 2025-09-18 | 2 | 32 | 1 | 47 | 12 | 100 |
+| last720d | 2024-09-23 | 5 | 53 | 1 | 123 | 13 | 211 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **92** distros on [repology.org](https://repology.org/project/cava). **26** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
+Reported by **92** distros on [repology.org](https://repology.org/project/cava). **27** are ✅ on the latest upstream release, **62** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T03:56:44Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:06:18Z._
