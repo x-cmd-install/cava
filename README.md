@@ -4,7 +4,7 @@
 
 Cross-platform Audio Visualizer
 
-![cava](https://repo.x-cmd.io/cava.svg)
+[![x-cmd/install — cava Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cava.svg)](https://x-cmd.com/install/cava)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,421 · **Forks**: 297 · **Open issues**: 530 · **Contributors**: 86
+- **Stars**: 6,425 · **Forks**: 298 · **Open issues**: 530 · **Contributors**: 86
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 1 | 0 | 2 | 4 | 7 |
-| 90d | 2026-06-20 | 0 | 5 | 0 | 4 | 8 | 14 |
-| last180d | 2026-03-22 | 1 | 11 | 0 | 11 | 12 | 24 |
-| 360d | 2025-09-23 | 2 | 32 | 1 | 46 | 12 | 100 |
-| last720d | 2024-09-28 | 5 | 53 | 1 | 121 | 13 | 211 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 0 | 1 | 0 | 2 | 4 | 7 |
+| 90d | 2026-06-22 | 0 | 5 | 0 | 4 | 7 | 12 |
+| last180d | 2026-03-24 | 1 | 10 | 0 | 10 | 11 | 18 |
+| 360d | 2025-09-25 | 2 | 32 | 1 | 45 | 12 | 100 |
+| last720d | 2024-09-30 | 5 | 53 | 1 | 120 | 13 | 210 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:00:22Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:15:52Z._
