@@ -14,11 +14,11 @@ x install cava
 
 ## Code insight
 
-Total: **10,125** lines of code across **79** files in the top 5 languages.
+Total: **10,127** lines of code across **79** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 7,006 | 419 | 1,173 | 23 |
+| C | 7,008 | 419 | 1,173 | 23 |
 | Glsl | 970 | 140 | 267 | 14 |
 | CHeader | 564 | 289 | 116 | 24 |
 | ObjectiveC | 350 | 0 | 71 | 1 |
@@ -26,11 +26,11 @@ Total: **10,125** lines of code across **79** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.6 / 10**
+Overall score: **3.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 9/29 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 8/29 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0.0` (2026-06-13)
-- **Last commit**: 2026-08-18
+- **Last commit**: 2026-09-21
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 6,428 · **Forks**: 298 · **Open issues**: 531 · **Contributors**: 86
+- **Stars**: 6,430 · **Forks**: 298 · **Open issues**: 532 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 217 · **Open PRs**: 1 · **Closed issues**: 513 · **Open issues**: 18 · **Commits**: 1169
+- **Releases**: 34 · **Merged PRs**: 217 · **Open PRs**: 1 · **Closed issues**: 515 · **Open issues**: 17 · **Commits**: 1171
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-07-23 | 0 | 1 | 0 | 2 | 5 | 7 |
-| 90d | 2026-06-23 | 0 | 5 | 0 | 4 | 8 | 12 |
-| last180d | 2026-03-25 | 1 | 10 | 0 | 10 | 12 | 18 |
-| 360d | 2025-09-26 | 2 | 32 | 1 | 45 | 13 | 100 |
-| last720d | 2024-10-01 | 5 | 53 | 1 | 120 | 14 | 210 |
+| 30d | 2026-08-23 | 0 | 0 | 0 | 2 | 1 | 2 |
+| last60d | 2026-07-24 | 0 | 1 | 0 | 4 | 4 | 9 |
+| 90d | 2026-06-24 | 0 | 4 | 0 | 6 | 7 | 14 |
+| last180d | 2026-03-26 | 1 | 9 | 0 | 12 | 10 | 20 |
+| 360d | 2025-09-27 | 2 | 32 | 1 | 47 | 12 | 102 |
+| last720d | 2024-10-02 | 5 | 53 | 1 | 122 | 13 | 211 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:13:31Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:09:32Z._
