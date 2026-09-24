@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,431 · **Forks**: 298 · **Open issues**: 532 · **Contributors**: 86
+- **Stars**: 6,433 · **Forks**: 298 · **Open issues**: 532 · **Contributors**: 86
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 0 | 0 | 2 | 1 | 2 |
-| last60d | 2026-07-25 | 0 | 1 | 0 | 4 | 4 | 9 |
-| 90d | 2026-06-25 | 0 | 4 | 0 | 6 | 5 | 14 |
-| last180d | 2026-03-27 | 1 | 9 | 0 | 12 | 10 | 20 |
-| 360d | 2025-09-28 | 2 | 32 | 1 | 47 | 12 | 102 |
-| last720d | 2024-10-03 | 5 | 53 | 1 | 122 | 13 | 211 |
+| 30d | 2026-08-25 | 0 | 0 | 0 | 2 | 1 | 2 |
+| last60d | 2026-07-26 | 0 | 1 | 0 | 4 | 3 | 9 |
+| 90d | 2026-06-26 | 0 | 3 | 0 | 6 | 5 | 14 |
+| last180d | 2026-03-28 | 1 | 9 | 0 | 12 | 10 | 20 |
+| 360d | 2025-09-29 | 2 | 32 | 1 | 46 | 12 | 102 |
+| last720d | 2024-10-04 | 5 | 53 | 1 | 122 | 13 | 211 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T04:07:30Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:01:45Z._
