@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 0 | 2 | 2 | 2 |
-| last60d | 2026-07-29 | 0 | 1 | 0 | 4 | 4 | 3 |
-| 90d | 2026-06-29 | 0 | 2 | 0 | 5 | 6 | 9 |
-| last180d | 2026-03-31 | 1 | 9 | 0 | 12 | 11 | 20 |
-| 360d | 2025-10-02 | 2 | 32 | 1 | 44 | 13 | 101 |
-| last720d | 2024-10-07 | 5 | 53 | 1 | 121 | 14 | 211 |
+| 30d | 2026-08-29 | 0 | 0 | 0 | 2 | 1 | 2 |
+| last60d | 2026-07-30 | 0 | 1 | 0 | 3 | 3 | 3 |
+| 90d | 2026-06-30 | 0 | 2 | 0 | 5 | 6 | 9 |
+| last180d | 2026-04-01 | 1 | 9 | 0 | 12 | 11 | 20 |
+| 360d | 2025-10-03 | 2 | 32 | 1 | 44 | 13 | 101 |
+| last720d | 2024-10-08 | 5 | 53 | 1 | 121 | 14 | 211 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T04:36:47Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T04:38:14Z._
