@@ -47,22 +47,22 @@ x install cava
 
 ## 流行度
 
-- **Star**: 6,489 · **Fork**: 299 · **开放 issue**: 533 · **贡献者**: 87
+- **Star**: 6,493 · **Fork**: 299 · **开放 issue**: 532 · **贡献者**: 87
 
 ## 累计统计
 
-- **发布数**: 34 · **已合并 PR**: 219 · **开放 PR**: 1 · **已关闭 issue**: 516 · **开放 issue**: 17 · **提交数**: 1175
+- **发布数**: 34 · **已合并 PR**: 219 · **开放 PR**: 1 · **已关闭 issue**: 515 · **开放 issue**: 17 · **提交数**: 1175
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 2 | 0 | 0 | 1 | 4 |
-| last60d | 2026-08-23 | 0 | 2 | 0 | 3 | 1 | 6 |
-| 90d | 2026-07-24 | 0 | 3 | 0 | 5 | 4 | 13 |
-| last180d | 2026-04-25 | 1 | 8 | 0 | 12 | 9 | 22 |
-| 360d | 2025-10-27 | 2 | 31 | 1 | 40 | 12 | 93 |
-| last720d | 2024-11-01 | 5 | 55 | 1 | 120 | 12 | 214 |
+| 30d | 2026-09-23 | 0 | 2 | 0 | 0 | 1 | 4 |
+| last60d | 2026-08-24 | 0 | 2 | 0 | 3 | 1 | 6 |
+| 90d | 2026-07-25 | 0 | 3 | 0 | 5 | 4 | 13 |
+| last180d | 2026-04-26 | 1 | 8 | 0 | 11 | 9 | 22 |
+| 360d | 2025-10-28 | 2 | 31 | 1 | 37 | 12 | 93 |
+| last720d | 2024-11-02 | 5 | 55 | 1 | 119 | 12 | 214 |
 
 ## Release 资产
 
@@ -71,6 +71,25 @@ x install cava
 | [cava-1.0.0.tar.gz](https://github.com/karlstav/cava/releases/download/1.0.0/cava-1.0.0.tar.gz) | 446.7 KiB | `native/unknown` |
 | [cava.apk](https://github.com/karlstav/cava/releases/download/1.0.0/cava.apk) | 18.1 MiB | `other` |
 | [cava_win_x64_install.msi](https://github.com/karlstav/cava/releases/download/1.0.0/cava_win_x64_install.msi) | 1.2 MiB | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/cava) 上共有 **91** 个发行版报告此项目。**30** 个 ✅ 已是最新上游版本，**57** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `0.6.0` | ⚠️ outdated |
+| Debian 14 | `0.6.0` | ⚠️ outdated |
+| Debian 13 | `0.6.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.6.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.6.0` | ⚠️ outdated |
+| Arch | `1.0.0` | ✅ latest |
+| Homebrew | `1.0.0` | ✅ latest |
+| Fedora rawhide | `0.10.2` | ⚠️ outdated |
+| Nix unstable | `1.0.0` | ✅ latest |
+| Void | `1.0.0` | ✅ latest |
+| Alpine edge | `1.0.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.0.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -81,4 +100,4 @@ cava 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:02:41Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:05:51Z._
