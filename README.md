@@ -14,11 +14,11 @@ x install cava
 
 ## Code insight
 
-Total: **10,175** lines of code across **79** files in the top 5 languages.
+Total: **10,233** lines of code across **79** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 7,052 | 422 | 1,177 | 23 |
+| C | 7,110 | 425 | 1,179 | 23 |
 | Glsl | 970 | 140 | 267 | 14 |
 | CHeader | 568 | 289 | 116 | 24 |
 | ObjectiveC | 350 | 0 | 71 | 1 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0.0` (2026-06-13)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-23
 - **Assets in release**: 3
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 219 · **Open PRs**: 1 · **Closed issues**: 515 · **Open issues**: 17 · **Commits**: 1175
+- **Releases**: 34 · **Merged PRs**: 219 · **Open PRs**: 1 · **Closed issues**: 521 · **Open issues**: 11 · **Commits**: 1177
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 2 | 0 | 0 | 1 | 4 |
-| last60d | 2026-08-24 | 0 | 2 | 0 | 3 | 1 | 6 |
-| 90d | 2026-07-25 | 0 | 3 | 0 | 5 | 4 | 13 |
-| last180d | 2026-04-26 | 1 | 8 | 0 | 11 | 9 | 22 |
-| 360d | 2025-10-28 | 2 | 31 | 1 | 37 | 12 | 93 |
-| last720d | 2024-11-02 | 5 | 55 | 1 | 119 | 12 | 214 |
+| 30d | 2026-09-24 | 0 | 2 | 0 | 1 | 0 | 6 |
+| last60d | 2026-08-25 | 0 | 2 | 0 | 4 | 0 | 8 |
+| 90d | 2026-07-26 | 0 | 3 | 0 | 7 | 1 | 15 |
+| last180d | 2026-04-27 | 1 | 8 | 0 | 15 | 5 | 24 |
+| 360d | 2025-10-29 | 2 | 31 | 1 | 43 | 6 | 95 |
+| last720d | 2024-11-03 | 5 | 55 | 1 | 125 | 6 | 216 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **91** distros on [repology.org](https://repology.org/project/cava). **30** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+Reported by **92** distros on [repology.org](https://repology.org/project/cava). **31** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:05:50Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T03:59:08Z._
