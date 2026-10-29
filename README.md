@@ -14,13 +14,13 @@ x install cava
 
 ## Code insight
 
-Total: **10,233** lines of code across **79** files in the top 5 languages.
+Total: **10,547** lines of code across **80** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 7,110 | 425 | 1,179 | 23 |
+| C | 7,174 | 434 | 1,191 | 23 |
 | Glsl | 970 | 140 | 267 | 14 |
-| CHeader | 568 | 289 | 116 | 24 |
+| CHeader | 818 | 309 | 168 | 25 |
 | ObjectiveC | 350 | 0 | 71 | 1 |
 | Xml | 301 | 0 | 21 | 17 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0.0` (2026-06-13)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-28
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 6,496 · **Forks**: 301 · **Open issues**: 533 · **Contributors**: 87
+- **Stars**: 6,498 · **Forks**: 302 · **Open issues**: 533 · **Contributors**: 88
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 219 · **Open PRs**: 2 · **Closed issues**: 522 · **Open issues**: 11 · **Commits**: 1177
+- **Releases**: 34 · **Merged PRs**: 220 · **Open PRs**: 1 · **Closed issues**: 523 · **Open issues**: 10 · **Commits**: 1179
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 2 | 1 | 0 | 1 | 6 |
-| last60d | 2026-08-29 | 0 | 2 | 1 | 3 | 1 | 8 |
-| 90d | 2026-07-30 | 0 | 3 | 1 | 6 | 1 | 9 |
-| last180d | 2026-05-01 | 1 | 8 | 1 | 14 | 5 | 24 |
-| 360d | 2025-11-02 | 2 | 31 | 2 | 44 | 6 | 94 |
-| last720d | 2024-11-07 | 5 | 55 | 2 | 124 | 6 | 216 |
+| 30d | 2026-09-29 | 0 | 3 | 0 | 1 | 0 | 8 |
+| last60d | 2026-08-30 | 0 | 3 | 0 | 4 | 0 | 10 |
+| 90d | 2026-07-31 | 0 | 4 | 0 | 7 | 0 | 11 |
+| last180d | 2026-05-02 | 1 | 9 | 0 | 15 | 4 | 26 |
+| 360d | 2025-11-03 | 2 | 32 | 1 | 45 | 5 | 96 |
+| last720d | 2024-11-08 | 5 | 56 | 1 | 125 | 5 | 218 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T04:54:42Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:05:41Z._
