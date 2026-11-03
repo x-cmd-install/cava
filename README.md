@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,502 · **Forks**: 302 · **Open issues**: 534 · **Contributors**: 88
+- **Stars**: 6,507 · **Forks**: 303 · **Open issues**: 534 · **Contributors**: 88
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 3 | 0 | 1 | 1 | 10 |
-| last60d | 2026-09-03 | 0 | 3 | 0 | 4 | 1 | 12 |
-| 90d | 2026-08-04 | 0 | 4 | 0 | 7 | 1 | 13 |
-| last180d | 2026-05-06 | 1 | 9 | 0 | 15 | 5 | 28 |
-| 360d | 2025-11-07 | 2 | 32 | 1 | 43 | 6 | 96 |
-| last720d | 2024-11-12 | 5 | 56 | 1 | 124 | 6 | 219 |
+| 30d | 2026-10-04 | 0 | 3 | 0 | 1 | 1 | 10 |
+| last60d | 2026-09-04 | 0 | 3 | 0 | 4 | 1 | 12 |
+| 90d | 2026-08-05 | 0 | 4 | 0 | 7 | 1 | 13 |
+| last180d | 2026-05-07 | 1 | 9 | 0 | 15 | 5 | 28 |
+| 360d | 2025-11-08 | 2 | 32 | 1 | 43 | 6 | 96 |
+| last720d | 2024-11-13 | 5 | 56 | 1 | 124 | 6 | 219 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **92** distros on [repology.org](https://repology.org/project/cava). **31** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+Reported by **90** distros on [repology.org](https://repology.org/project/cava). **30** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -84,7 +84,7 @@ Reported by **92** distros on [repology.org](https://repology.org/project/cava).
 | Ubuntu 26.04 LTS | `0.6.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.6.0` | ⚠️ outdated |
 | Arch | `1.0.0` | ✅ latest |
-| Homebrew | `1.0.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.10.2` | ⚠️ outdated |
 | Nix unstable | `1.0.0` | ✅ latest |
 | Void | `1.0.0` | ✅ latest |
@@ -100,4 +100,4 @@ Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:17:06Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T05:58:41Z._
