@@ -26,12 +26,12 @@ Total: **10,569** lines of code across **80** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.5 / 10**
+Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (3/10) — Found 9/25 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (2/10) — Found 8/29 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,531 · **Forks**: 302 · **Open issues**: 534 · **Contributors**: 89
+- **Stars**: 6,533 · **Forks**: 302 · **Open issues**: 534 · **Contributors**: 89
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 2 | 0 | 2 | 0 | 8 |
-| last60d | 2026-09-17 | 0 | 4 | 0 | 5 | 0 | 12 |
-| 90d | 2026-08-18 | 0 | 4 | 0 | 6 | 0 | 14 |
-| last180d | 2026-05-20 | 1 | 9 | 0 | 15 | 4 | 29 |
-| 360d | 2025-11-21 | 2 | 33 | 1 | 44 | 5 | 98 |
-| last720d | 2024-11-26 | 4 | 57 | 1 | 117 | 5 | 219 |
+| 30d | 2026-10-18 | 0 | 2 | 0 | 2 | 0 | 8 |
+| last60d | 2026-09-18 | 0 | 4 | 0 | 5 | 0 | 12 |
+| 90d | 2026-08-19 | 0 | 4 | 0 | 6 | 0 | 14 |
+| last180d | 2026-05-21 | 1 | 9 | 0 | 15 | 4 | 29 |
+| 360d | 2025-11-22 | 2 | 33 | 1 | 44 | 5 | 98 |
+| last720d | 2024-11-27 | 4 | 57 | 1 | 117 | 5 | 219 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **93** distros on [repology.org](https://repology.org/project/cava). **32** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+Reported by **95** distros on [repology.org](https://repology.org/project/cava). **33** are ✅ on the latest upstream release, **58** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T05:42:21Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:19:00Z._

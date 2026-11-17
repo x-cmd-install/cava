@@ -26,12 +26,12 @@ x install cava
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.5 / 10**
+总评分: **3.6 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (3/10) — Found 9/25 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (2/10) — Found 8/29 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,7 +47,7 @@ x install cava
 
 ## 流行度
 
-- **Star**: 6,531 · **Fork**: 302 · **开放 issue**: 534 · **贡献者**: 89
+- **Star**: 6,533 · **Fork**: 302 · **开放 issue**: 534 · **贡献者**: 89
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install cava
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 2 | 0 | 2 | 0 | 8 |
-| last60d | 2026-09-17 | 0 | 4 | 0 | 5 | 0 | 12 |
-| 90d | 2026-08-18 | 0 | 4 | 0 | 6 | 0 | 14 |
-| last180d | 2026-05-20 | 1 | 9 | 0 | 15 | 4 | 29 |
-| 360d | 2025-11-21 | 2 | 33 | 1 | 44 | 5 | 98 |
-| last720d | 2024-11-26 | 4 | 57 | 1 | 117 | 5 | 219 |
+| 30d | 2026-10-18 | 0 | 2 | 0 | 2 | 0 | 8 |
+| last60d | 2026-09-18 | 0 | 4 | 0 | 5 | 0 | 12 |
+| 90d | 2026-08-19 | 0 | 4 | 0 | 6 | 0 | 14 |
+| last180d | 2026-05-21 | 1 | 9 | 0 | 15 | 4 | 29 |
+| 360d | 2025-11-22 | 2 | 33 | 1 | 44 | 5 | 98 |
+| last720d | 2024-11-27 | 4 | 57 | 1 | 117 | 5 | 219 |
 
 ## Release 资产
 
@@ -74,7 +74,7 @@ x install cava
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/cava) 上共有 **93** 个发行版报告此项目。**32** 个 ✅ 已是最新上游版本，**57** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/cava) 上共有 **95** 个发行版报告此项目。**33** 个 ✅ 已是最新上游版本，**58** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -100,4 +100,4 @@ cava 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T05:42:22Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T07:19:01Z._
