@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,549 · **Forks**: 302 · **Open issues**: 535 · **Contributors**: 89
+- **Stars**: 6,553 · **Forks**: 302 · **Open issues**: 535 · **Contributors**: 89
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 2 | 0 | 2 | 0 | 4 |
-| last60d | 2026-09-25 | 0 | 4 | 0 | 3 | 0 | 12 |
-| 90d | 2026-08-26 | 0 | 4 | 0 | 7 | 0 | 14 |
-| last180d | 2026-05-28 | 1 | 9 | 0 | 16 | 4 | 29 |
-| 360d | 2025-11-29 | 2 | 32 | 1 | 45 | 5 | 96 |
-| last720d | 2024-12-04 | 4 | 57 | 1 | 118 | 5 | 218 |
+| 30d | 2026-10-26 | 0 | 1 | 0 | 2 | 0 | 4 |
+| last60d | 2026-09-26 | 0 | 4 | 0 | 3 | 0 | 12 |
+| 90d | 2026-08-27 | 0 | 4 | 0 | 7 | 0 | 14 |
+| last180d | 2026-05-29 | 1 | 9 | 0 | 16 | 4 | 29 |
+| 360d | 2025-11-30 | 2 | 32 | 1 | 45 | 5 | 96 |
+| last720d | 2024-12-05 | 4 | 57 | 1 | 118 | 5 | 218 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **93** distros on [repology.org](https://repology.org/project/cava). **32** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+Reported by **92** distros on [repology.org](https://repology.org/project/cava). **32** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:12:58Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T07:47:57Z._
