@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,553 · **Forks**: 302 · **Open issues**: 535 · **Contributors**: 89
+- **Stars**: 6,559 · **Forks**: 302 · **Open issues**: 535 · **Contributors**: 89
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 1 | 0 | 2 | 0 | 4 |
-| last60d | 2026-09-26 | 0 | 4 | 0 | 3 | 0 | 12 |
-| 90d | 2026-08-27 | 0 | 4 | 0 | 7 | 0 | 14 |
-| last180d | 2026-05-29 | 1 | 9 | 0 | 16 | 4 | 29 |
-| 360d | 2025-11-30 | 2 | 32 | 1 | 45 | 5 | 96 |
-| last720d | 2024-12-05 | 4 | 57 | 1 | 118 | 5 | 218 |
+| 30d | 2026-10-27 | 0 | 1 | 0 | 2 | 0 | 4 |
+| last60d | 2026-09-27 | 0 | 4 | 0 | 3 | 0 | 12 |
+| 90d | 2026-08-28 | 0 | 4 | 0 | 7 | 0 | 14 |
+| last180d | 2026-05-30 | 1 | 9 | 0 | 16 | 4 | 29 |
+| 360d | 2025-12-01 | 2 | 32 | 1 | 45 | 5 | 96 |
+| last720d | 2024-12-06 | 4 | 57 | 1 | 117 | 5 | 218 |
 
 ## Release assets
 
@@ -71,25 +71,6 @@ Lowest-scoring checks:
 | [cava-1.0.0.tar.gz](https://github.com/karlstav/cava/releases/download/1.0.0/cava-1.0.0.tar.gz) | 446.7 KiB | `native/unknown` |
 | [cava.apk](https://github.com/karlstav/cava/releases/download/1.0.0/cava.apk) | 18.1 MiB | `other` |
 | [cava_win_x64_install.msi](https://github.com/karlstav/cava/releases/download/1.0.0/cava_win_x64_install.msi) | 1.2 MiB | `other` |
-
-## Distribution status
-
-Reported by **92** distros on [repology.org](https://repology.org/project/cava). **32** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.6.0` | ⚠️ outdated |
-| Debian 14 | `0.6.0` | ⚠️ outdated |
-| Debian 13 | `0.6.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.6.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.6.0` | ⚠️ outdated |
-| Arch | `1.0.0` | ✅ latest |
-| Homebrew | `1.0.0` | ✅ latest |
-| Fedora rawhide | `0.10.2` | ⚠️ outdated |
-| Nix unstable | `1.0.0` | ✅ latest |
-| Void | `1.0.0` | ✅ latest |
-| Alpine edge | `1.0.0` | ✅ latest |
-| openSUSE Tumbleweed | `1.0.0` | ✅ latest |
 
 ## Improve this data
 
@@ -100,4 +81,4 @@ Install metadata for cava lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T07:47:57Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T07:39:39Z._
